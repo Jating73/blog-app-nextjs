@@ -24,7 +24,7 @@ async function sendMessageHandler(req, res) {
     };
 
     const mongoUri =
-      "mongodb+srv://Jating73:vKHdYO5BcfxGREEU@cluster0.ief6bpf.mongodb.net/blog?retryWrites=true&w=majority";
+      "mongodb+srv://${MONGO_USERNAME}:${MONGO_PASSWORD}@${MONGO_CLUSTER}.ief6bpf.mongodb.net/${MONGO_DATABASE}?retryWrites=true&w=majority";
     let client;
 
     try {
