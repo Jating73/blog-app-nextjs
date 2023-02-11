@@ -23,8 +23,7 @@ async function sendMessageHandler(req, res) {
       message,
     };
 
-    const mongoUri =
-      "mongodb+srv://${MONGO_USERNAME}:${MONGO_PASSWORD}@${MONGO_CLUSTER}.ief6bpf.mongodb.net/${MONGO_DATABASE}?retryWrites=true&w=majority";
+    const mongoUri = `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@${process.env.MONGO_CLUSTER}.ief6bpf.mongodb.net/${process.env.MONGO_DATABASE}?retryWrites=true&w=majority`;
     let client;
 
     try {
