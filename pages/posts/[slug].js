@@ -25,7 +25,7 @@ export function getStaticProps(content) {
     props: {
       post: postData,
     },
-    // revalidate: 600, //once every 10 min
+    revalidate: 600, //once every 10 min
   };
 }
 
