@@ -16,7 +16,7 @@ function Hero() {
       <p>
         {" "}
         I blog about web development - especially frontend frameworks like
-        Angular or React
+        NodeJS or React
       </p>
     </section>
   );
