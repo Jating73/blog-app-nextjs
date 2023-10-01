@@ -8,7 +8,7 @@ isFeatured: false
 
 The tech interview process can be daunting, especially when you're aiming for a job at one of the leading tech companies. To help you prepare and succeed, I've compiled a list of coding questions commonly asked during interviews at top tech giants like Google, Facebook, Amazon, and others. Let's dive into some of these challenging coding problems.
 
-![Cracking the Code](coding-interview-questions.jpg)
+![Cracking the Code](MAANG.png)
 
 ## Infosys
 

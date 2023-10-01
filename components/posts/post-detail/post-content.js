@@ -38,6 +38,7 @@ function PostContent(props) {
               height={300}
               width={600}
               alt={image.alt}
+              style={{ objectFit: "contain" }}
             />
           </div>
         );
