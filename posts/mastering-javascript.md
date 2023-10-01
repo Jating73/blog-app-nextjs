@@ -17,7 +17,7 @@ function printBasics() {
   console.log(basics):
 }
 
-printBasics();
+printBasics(); // Okay, that should not be too difficult actually
 ```
 
-Learn more about it [here](https://academind.com).
+
