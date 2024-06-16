@@ -2,7 +2,7 @@
 title: Eggoz Interview Questions
 excerpt: Interview Questions for Technical Lead Engineer (Python/Django)
 image: eggoz.jpg
-isFeatured: true
+isFeatured: false
 date: "2024-06-16"
 ---
 

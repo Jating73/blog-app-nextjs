@@ -1,6 +1,6 @@
 ---
 title: Basic JavaScript Interview Questions
-excerpt: JavaScript is the most important programming language for web development. You probably don't know it well enough!
+excerpt: Some of the basic Javascript Interview Questions which you might know before your interview!
 image: basic-js-interview-questions.png
 isFeatured: true
 date: "2023-10-15"
