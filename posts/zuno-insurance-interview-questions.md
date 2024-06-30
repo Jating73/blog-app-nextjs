@@ -255,7 +255,7 @@ The event loop in JavaScript manages these phases to ensure that tasks, whether 
 
 The following diagram shows a simplified overview of the event loop's order of operations.
 
-![](event-loop-phases.png)
+![Event Loop Phases](event-loop-phases.png)
 
 1. **Timers Phase** -
    This phase handles functions scheduled to run after a certain amount of time using setTimeout() and setInterval().
