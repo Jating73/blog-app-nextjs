@@ -1,5 +1,5 @@
 ---
-title: Eggoz Interview Questions
+title: Eggoz Interview Experience
 excerpt: Interview Questions for Technical Lead Engineer (Python/Django)
 image: eggoz.jpg
 isFeatured: false

@@ -1,5 +1,5 @@
 ---
-title: ZenTrades Interview Questions
+title: ZenTrades Interview Experience
 excerpt: Interview Questions for Fullstack Engineer (MERN)
 image: zentrades.jpg
 isFeatured: false

@@ -1,5 +1,5 @@
 ---
-title: Zuno Insurance Interview Questions
+title: Zuno Insurance Interview Experience
 excerpt: Interview Questions for Senior Software Engineer / Tech Lead
 image: zuno.png
 isFeatured: false
