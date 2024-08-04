@@ -10,6 +10,158 @@ date: "2024-08-03"
 
 ### Question 1
 
+What is Event Loop? How Nodejs handle concurrency?
+
+**_Answer_**  
+**Event Loop**: The event loop is a mechanism that allows Node.js to perform non-blocking I/O operations despite the fact that JavaScript is single-threaded. It offloads operations to the system kernel whenever possible.
+
+**Handling Concurrency**: Node.js handles concurrency using an event-driven architecture. When a task is executed, Node.js offloads it to the event loop. This allows Node.js to handle multiple operations concurrently by utilizing callbacks, promises, or async/await, rather than creating multiple threads.
+
+### Question 2
+
+What is REST API? How are they better than old techniques?
+
+**_Answer_**  
+**REST API**: REST (Representational State Transfer) is an architectural style for designing networked applications. It uses HTTP requests to perform CRUD (Create, Read, Update, Delete) operations. RESTful APIs are stateless, meaning each request from a client to a server must contain all the information needed to understand and process the request.
+
+**Advantages over Old Techniques**:
+
+- Statelessness: Each request is independent.
+- Scalability: Easy to scale as REST APIs can handle multiple types of calls and return different data formats.
+- Flexibility: REST APIs are not tied to a client-side technology.
+- Simplicity: Based on standard HTTP methods, making them easy to understand and implement.
+
+### Question 3
+
+What is Primary and Unique Key? Difference between them?
+
+**_Answer_**  
+**Primary Key**: A primary key is a field (or combination of fields) that uniquely identifies a record in a table. It cannot be NULL and must contain unique values.
+
+**Unique Key**: A unique key also ensures the uniqueness of the column values, but it can have one NULL value.
+
+**Difference**:
+
+- A table can have only one primary key, but multiple unique keys.
+- Primary key columns cannot contain NULL values, whereas unique key columns can contain one NULL value.
+
+### Question 4
+
+Lifecycle of ReactJs?
+
+**_Answer_**
+
+1. **Initialization**: Setting up the initial state and props.
+2. **Mounting**: Inserting the component into the DOM (**componentDidMount**).
+3. **Updating**: When state or props change, causing re-render (**componentDidUpdate**).
+4. **Unmounting**: Removing the component from the DOM (**componentWillUnmount**).
+
+### Question 5
+
+What are different hooks?
+
+**_Answer_**
+
+- **useState**: Manages state in functional components.
+- **useEffect**: Side-effects management (data fetching, subscriptions).
+- **useContext**: Accesses the context API.
+- **useReducer**: Manages complex state logic.
+- **useCallback**: Memoizes callback functions.
+- **useMemo**: Memoizes expensive calculations.
+- **useRef**: Accesses DOM elements or keeps a mutable variable.
+
+### Question 6
+
+Explain useMemo and useCallback? what are the difference between them?
+
+**_Answer_**  
+**useMemo**:
+
+- Memoizes a value, preventing recalculation on every render unless dependencies change.
+- Syntax:
+
+```js
+const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
+```
+
+**useCallback**:
+
+- Memoizes a function, preventing recreation on every render unless dependencies change.
+- Syntax:
+
+```js
+const memoizedCallback = useCallback(() => {
+  doSomething(a, b);
+}, [a, b]);
+```
+
+**Difference**:
+
+- **useMemo** returns a memoized value, **useCallback** returns a memoized function.
+
+### Question 7
+
+Write a sql query to get exmployees having department = 'IT'
+
+**_Answer_**
+
+```sql
+SELECT * FROM Employee WHERE departmentId = (SELECT id FROM Department WHERE name = 'IT');
+```
+
+### Question 8
+
+What are different test libraries worked with? Write a basic Chai, Mocha Code.
+
+**_Answer_**  
+Libraries: Chai, Mocha.
+
+```js
+const chai = require("chai");
+const expect = chai.expect;
+
+describe("Array", function () {
+  it("should return -1 when the value is not present", function () {
+    expect([1, 2, 3].indexOf(4)).to.equal(-1);
+  });
+});
+```
+
+### Question 9
+
+What is regression testing?? What is UAT?? What is STLC?
+
+**_Answer_**  
+Regression Testing: Ensures that new code changes do not adversely affect existing functionalities.
+
+UAT (User Acceptance Testing): Final testing performed by end users to ensure the system meets their requirements.
+
+STLC (Software Testing Life Cycle): Series of activities performed during the testing process to ensure software quality.
+
+### Question 10
+
+How to test react code?
+
+**_Answer_**
+
+- Unit Testing: Test individual components using Jest, Enzyme, or React Testing Library.
+- Integration Testing: Test how components work together.
+- End-to-End Testing: Test the entire application flow using Cypress or Selenium.
+
+### Question 11
+
+Write a python code to reverse a string.
+
+**_Answer_**
+
+```python
+def reverse_string(s):
+    return s[::-1]
+
+# Example usage:
+print(reverse_string("Hello World"))  # Output: "dlroW olleH"
+```
+
 # Round 2 - Technical Round (1 hr)
 
 ### Question 1
@@ -126,17 +278,7 @@ console.log(inorderResult.join(" "));
 Given array of strings remove duplicate and print the array
 
 ```js
-let names = [
-  "brijesh",
-  "vaibhav",
-  "brijesh",
-  "jatin",
-  "vishal",
-  "sachin",
-  "vaibhav",
-  "pratik",
-  "jatin",
-];
+let names = ["brijesh", "vaibhav", "brijesh", "jatin", "vishal", "sachin", "vaibhav", "pratik", "jatin"];
 
 let map = new Map();
 
@@ -156,17 +298,7 @@ console.log(uniqueNames);
 Given array of strings remove duplicate and print the array. Implement without map
 
 ```js
-let names = [
-  "brijesh",
-  "vaibhav",
-  "brijesh",
-  "jatin",
-  "vishal",
-  "sachin",
-  "vaibhav",
-  "pratik",
-  "jatin",
-];
+let names = ["brijesh", "vaibhav", "brijesh", "jatin", "vishal", "sachin", "vaibhav", "pratik", "jatin"];
 
 let uniqueNames = [];
 
@@ -333,11 +465,7 @@ const PaginatedList = ({ apiEndpoint, itemsPerPage }) => {
           Previous
         </button>
         {Array.from({ length: totalPages }, (_, index) => (
-          <button
-            key={index + 1}
-            onClick={() => handlePageChange(index + 1)}
-            disabled={currentPage === index + 1}
-          >
+          <button key={index + 1} onClick={() => handlePageChange(index + 1)} disabled={currentPage === index + 1}>
             {index + 1}
           </button>
         ))}
