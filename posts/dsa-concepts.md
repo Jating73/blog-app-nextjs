@@ -1,7 +1,7 @@
 ---
 title: 🚀 DSA Concepts for Interview Preparation
 excerpt: 🚀 DSA Concepts to help you Prepare for your Interview and Crack it
-image: dsa.webp
+image: DSA.webp
 isFeatured: true
 date: "2025-05-20"
 ---
