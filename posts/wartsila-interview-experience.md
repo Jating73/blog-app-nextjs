@@ -2,7 +2,7 @@
 title: Wartsila Interview Experience
 excerpt: Interview Questions for Senior Software Engineer
 image: wartsila.png
-isFeatured: false
+isFeatured: true
 date: "2024-06-14"
 ---
 

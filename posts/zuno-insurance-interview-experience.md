@@ -2,7 +2,7 @@
 title: Zuno Insurance Interview Experience
 excerpt: Interview Questions for Senior Software Engineer / Tech Lead
 image: zuno.png
-isFeatured: false
+isFeatured: true
 date: "2024-06-25"
 ---
 

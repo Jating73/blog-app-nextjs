@@ -2,7 +2,7 @@
 title: Nielsen Interview Experience
 excerpt: Interview Questions for Full Stack Engineer (React + NodeJS)
 image: nielsen.png
-isFeatured: false
+isFeatured: true
 date: "2024-08-03"
 ---
 

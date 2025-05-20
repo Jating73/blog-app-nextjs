@@ -2,7 +2,7 @@
 title: Rutrust Interview Experience
 excerpt: Interview Questions for Senior Full Stack Developer
 image: rutrust.png
-isFeatured: false
+isFeatured: true
 date: "2024-12-06"
 ---
 

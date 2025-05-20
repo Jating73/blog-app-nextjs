@@ -2,7 +2,7 @@
 title: Turing Interview Experience
 excerpt: Interview Questions for Full Stack Developer (NodeJS + Python)
 image: turing.png
-isFeatured: false
+isFeatured: true
 date: "2024-09-27"
 ---
 

@@ -2,7 +2,7 @@
 title: Criteo Interview Experience
 excerpt: Interview Questions for Technical Solution Engineer
 image: criteo.webp
-isFeatured: false
+isFeatured: true
 date: "2024-12-06"
 ---
 

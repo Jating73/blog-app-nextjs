@@ -3,7 +3,7 @@ title: "Cracking the Code: Interview Questions at Top Tech Companies"
 date: "2023-10-01"
 image: coding-interview-questions.jpg
 excerpt: Prepare for your tech interviews with these coding questions from leading companies like Google, Facebook, Amazon, and more.
-isFeatured: false
+isFeatured: true
 ---
 
 The tech interview process can be daunting, especially when you're aiming for a job at one of the leading tech companies. To help you prepare and succeed, I've compiled a list of coding questions commonly asked during interviews at top tech giants like Google, Facebook, Amazon, and others. Let's dive into some of these challenging coding problems.

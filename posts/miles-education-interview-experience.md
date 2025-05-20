@@ -2,7 +2,7 @@
 title: Miles Education Interview Experience
 excerpt: Interview Questions for Full Stack Engineer (NestJS)
 image: miles-education.png
-isFeatured: false
+isFeatured: true
 date: "2024-08-02"
 ---
 

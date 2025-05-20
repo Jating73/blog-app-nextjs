@@ -2,7 +2,7 @@
 title: ZenTrades Interview Experience
 excerpt: Interview Questions for Fullstack Engineer (MERN)
 image: zentrades.jpg
-isFeatured: false
+isFeatured: true
 date: "2024-06-27"
 ---
 

@@ -2,7 +2,7 @@
 title: Infocusp Innovations Interview Experience
 excerpt: Interview Questions for Senior Frontend Engineer
 image: infocusp.webp
-isFeatured: false
+isFeatured: true
 date: "2024-09-27"
 ---
 
