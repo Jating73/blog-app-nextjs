@@ -41,7 +41,7 @@ Tea and Wine Please - Tee und wein, bitte!
 Water, Please! Thankyou - Wasseer, bitte! Danke!
 
 
-## (Day 2)
+## (Day 3)
 
 ### Words -
 
