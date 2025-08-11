@@ -36,7 +36,7 @@ Thankyou - Danke - Daanka
 
 Tea Please - Tee, Bitte.  
 Tea and Coffee, Please - Tee und Kaffee, Bitte.  
-Water and Bread, Please - Waaser und Brot, bitte!
+Water and Bread, Please - Waaser und Brot, bitte!  
 Tea and Wine Please - Tee und wein, bitte!  
 Water, Please! Thankyou - Wasseer, bitte! Danke!
 
@@ -67,3 +67,19 @@ No, Thankyou - Nein, Danke
 Water Please Thankyou - Wasser Bitte, Danke!  
 Coffee And Milk Please - Kaffee Und Milch Bitte!  
 Bread and water please - Brot und wasser Bitte!
+
+
+## (Day 4)
+
+### Words -
+
+English -> German -> Sounds  
+No new words today.
+
+### Sentence -
+Hello! Coffee, Please! - Hallo! Kaffee, bitte!  
+Hello! Coffe and Milk Please - Hallo! Kaffee und Milch bitte.  
+Coffee and Milk - Kaffee und Milche  
+Hello Water Please - Hallo Wasser, bitte
+No Thankyou, Bye - Nein, Danke, Tschuss!
+Yes or no - Jaa oder nein?
