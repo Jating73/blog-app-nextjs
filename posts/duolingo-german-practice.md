@@ -40,7 +40,6 @@ Water and Bread, Please - Waaser und Brot, bitte!
 Tea and Wine Please - Tee und wein, bitte!  
 Water, Please! Thankyou - Wasseer, bitte! Danke!
 
-
 ## (Day 3)
 
 ### Words -
@@ -50,9 +49,10 @@ Beer - Bier - Biya
 Yes - Ja - Yaa  
 No - Nein - Nine  
 Bye - Tschuss - Shuss  
-Or - Oder - Udaa  
+Or - Oder - Udaa
 
 ### Sentence -
+
 Beer Please - Bier, bitte!  
 Yes beer please - Ja! bier, bitte!  
 Yes Wine please - Ja! wein, bitte!  
@@ -68,7 +68,6 @@ Water Please Thankyou - Wasser Bitte, Danke!
 Coffee And Milk Please - Kaffee Und Milch Bitte!  
 Bread and water please - Brot und wasser Bitte!
 
-
 ## (Day 4)
 
 ### Words -
@@ -77,9 +76,37 @@ English -> German -> Sounds
 No new words today.
 
 ### Sentence -
+
 Hello! Coffee, Please! - Hallo! Kaffee, bitte!  
 Hello! Coffe and Milk Please - Hallo! Kaffee und Milch bitte.  
 Coffee and Milk - Kaffee und Milche  
-Hello Water Please - Hallo Wasser, bitte
-No Thankyou, Bye - Nein, Danke, Tschuss!
+Hello Water Please - Hallo Wasser, bitte  
+No Thankyou, Bye - Nein, Danke, Tschuss!  
 Yes or no - Jaa oder nein?
+
+## (Day 5)
+
+### Words -
+
+English -> German -> Sounds  
+wa - wa - khaa  
+o - o - oo  
+e - e - eeh  
+Father - Vater - Faata  
+Mother - Mutter - Mutta  
+ - Vier - Fear  
+A - Ein - Eyen  (For Male)  
+A - Eine - Eyene (For Female)  
+I - Ich - Ish
+
+
+### Sentence -
+Hello and bye - Hallo und TshcÜss  
+Water and wine - wasser und wein  
+Beer and wine please - wasser und wein bitte  
+A Father - Ein Vater  
+A Mother - Eine Mutter  
+A Father and A Mother - Ein Vater und Eine Mutter  
+I am Nina - Ich bin Nina  
+Hello I am Julia - Hallo, Ich bin Julia  
+Yes I am Lukas - Ja, Ich bin Lukas  

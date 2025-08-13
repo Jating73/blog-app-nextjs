@@ -58,3 +58,4 @@ npx react-native run-ios
 - Open Android Studio
 - Go to More Actions > Virtual Device Manager
 - Run any emulator
+
