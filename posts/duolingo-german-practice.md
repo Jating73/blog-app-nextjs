@@ -122,14 +122,26 @@ My - Mein/Meine - Mine
 Husband - Mann - Man  
 Brother - Brudr - Border  
 Sister - Schwester - Shwester  
+Son - Sohn - Zohn  
+Daughter - Tochter - Tokhtar  
+Wife - Frau - Fau or Frau  
+You - Du - Du  
+are - Bist - Bist  
 
 text - sound  
 ei - I  
 Ü - E  
+ach - akh  
+i - e  
 
 
 ### Sentence -
 My Husband - Mein Mann  
 My Brother - Mein Bruder  
 My Brother and My Man - Mein Bruder und Mein Mann  
-My Brother, My Mother - Mein Bruder, Meine Mutter
+My Brother, My Mother - Mein Bruder, Meine Mutter  
+My Sister - Meine Schwester  
+My Sister and my father - Meine Schwester und mein vater  
+My Son, My Mother - Mein Sohn, Meine Mutter  
+My daughter, My Father - Meine Tochter, Mein Vater  
+YOu are my wife - Du Bist Meine Frau  
