@@ -94,13 +94,15 @@ o - o - oo
 e - e - eeh  
 Father - Vater - Faata  
 Mother - Mutter - Mutta  
- - Vier - Fear  
-A - Ein - Eyen  (For Male)  
+A - Ein - Eyen (For Male)  
 A - Eine - Eyene (For Female)  
 I - Ich - Ish
 
+text - sound  
+Vier - Fear  
 
 ### Sentence -
+
 Hello and bye - Hallo und TshcÜss  
 Water and wine - wasser und wein  
 Beer and wine please - wasser und wein bitte  
@@ -109,4 +111,25 @@ A Mother - Eine Mutter
 A Father and A Mother - Ein Vater und Eine Mutter  
 I am Nina - Ich bin Nina  
 Hello I am Julia - Hallo, Ich bin Julia  
-Yes I am Lukas - Ja, Ich bin Lukas  
+Yes I am Lukas - Ja, Ich bin Lukas
+
+## (Day 6)
+
+### Words -
+
+English -> German -> Sounds  
+My - Mein/Meine - Mine  
+Husband - Mann - Man  
+Brother - Brudr - Border  
+Sister - Schwester - Shwester  
+
+text - sound  
+ei - I  
+Ü - E  
+
+
+### Sentence -
+My Husband - Mein Mann  
+My Brother - Mein Bruder  
+My Brother and My Man - Mein Bruder und Mein Mann  
+My Brother, My Mother - Mein Bruder, Meine Mutter
