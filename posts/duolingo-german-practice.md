@@ -144,4 +144,26 @@ My Sister - Meine Schwester
 My Sister and my father - Meine Schwester und mein vater  
 My Son, My Mother - Mein Sohn, Meine Mutter  
 My daughter, My Father - Meine Tochter, Mein Vater  
-YOu are my wife - Du Bist Meine Frau  
+You are my wife - Du Bist Meine Frau  
+
+
+## (Day 7)
+
+### Words -
+English -> German -> Sounds  
+nice - nett - net  
+very - sehr - zer  
+smart - klug - klug  
+is - ist - isst
+tall/big - groß - Khoss
+
+### Sentence -
+I am very nice - Ich bin sehr nett.  
+You are very tall - du bist sehr  
+My husband is smart - Mein Mann ist klug  
+My brother is very smart - Mein Bruder ist sehr klug!  
+My Mother is very tall - Meine Mutter ist sehr groß  
+My daughter is very tall - Meine Tochter ist sehr  
+My father is tall und nice - Mein Vater ist groß und nett  
+My mother is nice and tall - Meine Mutter ist nett und groß  
+My sister is nice - Meine Schwester ist nett  
