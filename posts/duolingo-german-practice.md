@@ -99,7 +99,7 @@ A - Eine - Eyene (For Female)
 I - Ich - Ish
 
 text - sound  
-Vier - Fear  
+Vier - Fear
 
 ### Sentence -
 
@@ -126,16 +126,16 @@ Son - Sohn - Zohn
 Daughter - Tochter - Tokhtar  
 Wife - Frau - Fau or Frau  
 You - Du - Du  
-are - Bist - Bist  
+are - Bist - Bist
 
 text - sound  
 ei - I  
 Ü - E  
 ach - akh  
-i - e  
-
+i - e
 
 ### Sentence -
+
 My Husband - Mein Mann  
 My Brother - Mein Bruder  
 My Brother and My Man - Mein Bruder und Mein Mann  
@@ -144,12 +144,12 @@ My Sister - Meine Schwester
 My Sister and my father - Meine Schwester und mein vater  
 My Son, My Mother - Mein Sohn, Meine Mutter  
 My daughter, My Father - Meine Tochter, Mein Vater  
-You are my wife - Du Bist Meine Frau  
-
+You are my wife - Du Bist Meine Frau
 
 ## (Day 7)
 
 ### Words -
+
 English -> German -> Sounds  
 nice - nett - net  
 very - sehr - zer  
@@ -158,6 +158,7 @@ is - ist - isst
 tall/big - groß - Khoss
 
 ### Sentence -
+
 I am very nice - Ich bin sehr nett.  
 You are very tall - du bist sehr  
 My husband is smart - Mein Mann ist klug  
@@ -166,4 +167,22 @@ My Mother is very tall - Meine Mutter ist sehr groß
 My daughter is very tall - Meine Tochter ist sehr  
 My father is tall und nice - Mein Vater ist groß und nett  
 My mother is nice and tall - Meine Mutter ist nett und groß  
-My sister is nice - Meine Schwester ist nett  
+My sister is nice - Meine Schwester ist nett
+
+## (Day 8)
+
+### Words -
+
+English -> German -> Sounds  
+so/well - Also - Alzo  
+soon - bald - bald  
+see you soon - bis bald - biss bald  
+later - spÄter - spaater
+
+### Sentence -
+
+So, see you soon, right? - Also, bis bald, ja?  
+So, see you later right? - Also, bis spÄter, ja?  
+Yes, see you soon - Ja, bis bald.  
+Yes, see you later - Ja, bis spÄter.  
+
