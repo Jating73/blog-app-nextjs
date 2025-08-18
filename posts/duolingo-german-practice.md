@@ -184,5 +184,35 @@ later - spÄter - spaater
 So, see you soon, right? - Also, bis bald, ja?  
 So, see you later right? - Also, bis spÄter, ja?  
 Yes, see you soon - Ja, bis bald.  
-Yes, see you later - Ja, bis spÄter.  
+Yes, see you later - Ja, bis spÄter.
+
+## (Day 9)
+
+### Words -
+
+English -> German -> Sounds
+boy - junge - yunge  
+the - der - derr  (male version)  
+the - die - dee   (female version)  
+Cat - katze - katza 
+Dog - hund - hoond  
+Elephant - elefant - elefant  
+beautiful - schÖn - shoon  
+young - jung - yung  
+Mouse - maus - mauss  
+Bear - bÃr - baer  
+Where - Wo - wo  
+Owl - Eule - Oile
+Oh/Aw - oh - oh  
+
+
+### Sentence -
+The man is nice - Der mann ist nett  
+The man is my father - Derr Mann ist mein Vater  
+The woman is nice - Die Frau ist nett  
+Is this woman Julia? - Ist die Frau Julia?  
+No, the woman is Nina - Nein, die Frau ist Nina  
+You are a cat - Du bist eine Katze  
+A woman and a cat - Eine Frau und Eine Katze  
+The elephant is very big - Der Elefant ist sehr groB  
 
