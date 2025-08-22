@@ -192,9 +192,9 @@ Yes, see you later - Ja, bis spÄter.
 
 English -> German -> Sounds
 boy - junge - yunge  
-the - der - derr  (male version)  
-the - die - dee   (female version)  
-Cat - katze - katza 
+the - der - derr (male version)  
+the - die - dee (female version)  
+Cat - katze - katza
 Dog - hund - hoond  
 Elephant - elefant - elefant  
 beautiful - schÖn - shoon  
@@ -203,10 +203,10 @@ Mouse - maus - mauss
 Bear - bÃr - baer  
 Where - Wo - wo  
 Owl - Eule - Oile
-Oh/Aw - oh - oh  
-
+Oh/Aw - oh - oh
 
 ### Sentence -
+
 The man is nice - Der mann ist nett  
 The man is my father - Derr Mann ist mein Vater  
 The woman is nice - Die Frau ist nett  
@@ -214,5 +214,24 @@ Is this woman Julia? - Ist die Frau Julia?
 No, the woman is Nina - Nein, die Frau ist Nina  
 You are a cat - Du bist eine Katze  
 A woman and a cat - Eine Frau und Eine Katze  
-The elephant is very big - Der Elefant ist sehr groB  
+The elephant is very big - Der Elefant ist sehr groB
+
+## (Day 10)
+
+### Words -
+
+English -> German -> Sounds  
+Play - Spiele - Speela  
+Prefer to - lieber - libaa  
+Football - Fußball - Fusball  
+Tennis - Tennis - Tennis
+Table Tennis - TischTennis - tischtennis
+
+### Sentence -
+
+I prefer to play tennis - Ich spiele lieber Tennis  
+I prefer to play football - Ich spiele lieber Fußball  
+Do you prefer to play tennis or football? - Spielst du lieber Tennis oder Fußball?  
+I am smart and my wife is beautiful - Ich bin klug und meine Frau ist SchÖn  
+I prefer to play table tennis - Ich Spiele lieber TischTennis  
 
