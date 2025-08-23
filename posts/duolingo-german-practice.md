@@ -233,5 +233,46 @@ I prefer to play tennis - Ich spiele lieber Tennis
 I prefer to play football - Ich spiele lieber Fußball  
 Do you prefer to play tennis or football? - Spielst du lieber Tennis oder Fußball?  
 I am smart and my wife is beautiful - Ich bin klug und meine Frau ist SchÖn  
-I prefer to play table tennis - Ich Spiele lieber TischTennis  
+I prefer to play table tennis - Ich Spiele lieber TischTennis
 
+## (Day 11)
+
+### Words -
+
+English -> German -> Sounds
+Good - Gut - Goot  
+Great/Super - Super - Zupa  
+How - Wie - Weee  
+Cheers - Prost - Poost  
+I'm - Es - S  
+Ok - OK - Ok  
+Mornig - Morgen - Morgan  
+Goodbye - Auf Wiedersehen - Of Weederzehn  
+Of course - NÄturlich - Natulish
+Evening - Abend - Aaband  
+No - Kein - Kein  
+Problem - Problem - Poblame  
+Sorry - leid - lied
+
+sah - zaa  
+er - aer  
+ehe - eya  
+ro - wo  
+spo - shpo
+
+### Sentence -
+
+I'm all right - Es geht
+Yes, Duo, I am alright. Thankyou! - Ya, Duo. Es geht, Danke!  
+Good afternoon - Guten Tag  
+Thankyou, Great - Danke! Super  
+How are you? - Wie geht's?  
+Good afternoon, How are you? - Guten Tag, Wie geht's?  
+Good morning - Guten Morgen  
+Ok, Thankyou! Goodbye - OK, Danke! Auf Wiedersehen  
+Good morning, How are you? - Guten Morgen, Wie geht's?  
+Good Evening - Guten Abend  
+No Problem - Kein Problem  
+I am sorry - Es tut mir leid!  
+No! I am sorry - Nein! Es tut mir leid!  
+Great, Wine! Cheers! - Super, Wein, Prost!
