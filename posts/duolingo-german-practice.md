@@ -248,7 +248,7 @@ I'm - Es - S
 Ok - OK - Ok  
 Mornig - Morgen - Morgan  
 Goodbye - Auf Wiedersehen - Of Weederzehn  
-Of course - NÄturlich - Natulish
+Of course - NÄturlich - Naturlish
 Evening - Abend - Aaband  
 No - Kein - Kein  
 Problem - Problem - Poblame  
@@ -276,3 +276,53 @@ No Problem - Kein Problem
 I am sorry - Es tut mir leid!  
 No! I am sorry - Nein! Es tut mir leid!  
 Great, Wine! Cheers! - Super, Wein, Prost!
+
+## (Day 11)
+
+### Words -
+
+English -> German -> Sounds  
+Passport - Pass - pass  
+Airport - Flughafen - flugafun  
+His - Seine - zeen  
+are - sind - sind  
+at the - im - im  
+not - nicht - nisht  
+here - hier - hier  
+bag - tasche - tasha  
+It - Er - Aer  
+in - in - in  
+Jacket - Jacke - Yake  
+but - Aber - Aber  
+Taxi - Taxi - Taxi  
+in the - im - im  
+Taxistand - Taxistand - Taxistand  
+runs - lÄuft - loft  
+to the - zum - zum  
+to - zu - zu  
+anymore - mehr - mehar  
+Now - Jetzt - Yetzz  
+have - habe - haba  
+Your - Dein/Deiner - Dein/Deiner  
+Hand - Hand - Hand  
+What - Was - Was  
+Sweetheart - Schatz - Shaatz  
+
+
+### Sentence -
+
+The Passport - Der Pass  
+Vikram and her wife Priya are at the airport - Vikram und seine Frau Priya sind im Flughafen  
+Oh no! Where is my passport? - Oh nein! Wo ist mein Pass?  
+My passport is not here! - Mein Pass ist nicht hier!  
+It is not in my bag - Er ist nicht meiner Tasche  
+And it is not in my jacket - Und ist nicht in meiner Jacke  
+Oh! my passport is in taxi! - Oh! Mein Pass ist im Taxi!  
+Vikram runs to the taxistand - Vikram laÜft zum Taxistand  
+Vikram, no! - Vikram, nein!  
+Priya runs to Vikram - Priya laÜft zu Vikram  
+Oh no, the taxi is not here anymore! - Oh nein, das Taxi ist nicht mehr hier!  
+Now I have a big problem - Jetz habe ich ein groBes Problem  
+Your passport is not in taxi - Dein Pass ist nicht im Taxi  
+Your passport is in your hand - Dein Pass ist deiner Hand  
+Thankyou my sweetheart - Danke! mein Schatz  

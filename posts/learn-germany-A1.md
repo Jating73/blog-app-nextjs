@@ -118,4 +118,6 @@ August - August
 September - September  
 Oktober - October  
 November - November  
-Dezember - December  
+Dezember - December
+
+## Day 12 (23-08-2025) -
