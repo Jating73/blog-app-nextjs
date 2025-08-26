@@ -3,6 +3,7 @@ title: 🇩🇪 German Language Practice on Duolingo
 excerpt: Learning Germany A1 as complete beginner on Duolingo
 image: duolingo-germany.jpg
 isFeatured: false
+isProtected: true
 date: "2025-08-08"
 ---
 
@@ -306,8 +307,7 @@ have - habe - haba
 Your - Dein/Deiner - Dein/Deiner  
 Hand - Hand - Hand  
 What - Was - Was  
-Sweetheart - Schatz - Shaatz  
-
+Sweetheart - Schatz - Shaatz
 
 ### Sentence -
 
@@ -325,4 +325,22 @@ Oh no, the taxi is not here anymore! - Oh nein, das Taxi ist nicht mehr hier!
 Now I have a big problem - Jetz habe ich ein groBes Problem  
 Your passport is not in taxi - Dein Pass ist nicht im Taxi  
 Your passport is in your hand - Dein Pass ist deiner Hand  
-Thankyou my sweetheart - Danke! mein Schatz  
+Thankyou my sweetheart - Danke! mein Schatz
+
+## (Day 12)
+
+### Words -
+
+English -> German -> Sounds  
+napkin - Serviette - saviaata  
+need - brauche - braua  
+knife - messer - messer
+
+### Sentence -
+
+Hello Quil, Good evening, How are you? - Hallo Quil, Guten Abend, Wie geht's?
+I am good max and you? - Mir gut Max, und dir?  
+I need a napkin - Ich brauche eine Serviette
+I need a knife - Ich brauche ein Masser  
+Here is the napkin - Hier ist eine Serviette  
+Here is a knife - Hier ist ein Messer

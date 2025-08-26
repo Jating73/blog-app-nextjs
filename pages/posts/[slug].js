@@ -1,13 +1,17 @@
 import Head from "next/head";
 import { Fragment } from "react";
 import PostContent from "../../components/posts/post-detail/post-content";
-import { getPostData, getPostsFiles } from "../../lib/posts-util";
+import PasswordForm from "../../components/posts/password-form";
 
 function PostDetailPage(props) {
+  if (props.locked) {
+    return <PasswordForm slug={props.slug} />;
+  }
+
   return (
     <Fragment>
       <Head>
-        <title>{props.post.title}</title>
+        <title>{props.slug}</title>
         <meta name="description" content={props.post.excerpt} />
       </Head>
       <PostContent post={props.post} />
@@ -15,33 +19,22 @@ function PostDetailPage(props) {
   );
 }
 
-export function getStaticProps(content) {
-  const { params } = content;
+export async function getServerSideProps({ params, req }) {
+  // import fs-dependent functions *inside* so Next.js doesn’t bundle them into client
+  const { getPostData } = await import("../../lib/posts-util");
   const { slug } = params;
-
   const postData = getPostData(slug);
 
-  return {
-    props: {
-      post: postData,
-    },
-    revalidate: 600, //once every 10 min
-  };
-}
+  if (postData.isProtected) {
+    const cookies = req.headers.cookie || "";
+    const isUnlocked = cookies.includes("unlocked=true");
 
-export function getStaticPaths() {
-  const postFileNames = getPostsFiles();
+    if (!isUnlocked) {
+      return { props: { slug, locked: true } };
+    }
+  }
 
-  const slugs = postFileNames.map((fileName) => fileName.replace(/\.md$/, ""));
-
-  return {
-    paths: slugs.map((slug) => ({
-      params: {
-        slug: slug,
-      },
-    })),
-    fallback: false,
-  };
+  return { props: { slug, post: postData, locked: false } };
 }
 
 export default PostDetailPage;

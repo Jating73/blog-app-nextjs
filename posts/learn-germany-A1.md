@@ -3,6 +3,7 @@ title: 🇩🇪 German Language A1
 excerpt: Learning Germany A1 as complete beginner
 image: germany-a1.png
 isFeatured: false
+isProtected: true
 date: "2025-08-11"
 ---
 
@@ -58,6 +59,14 @@ Indepence Day Holiday
 324 - dreihundertvierundzweizwanzig  
 4378 - fiertausenddreihundertachtundsiebzig  
 1990 (year) - neunzehnhundertneunzig (zahr)
+
+## Day 7 (18-08-2025) -
+
+## Day 8 (19-08-2025) -
+
+## Day 9 (20-08-2025) -
+
+## Day 10 (21-08-2025) -
 
 ## Day 11 (22-08-2025) -
 
