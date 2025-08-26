@@ -18,8 +18,18 @@
   object-fit: cover;
 }
 
+.title{
+  display: "flex"; 
+  align-items: "center"; 
+  gap: "0.4rem"
+}
+
 .content {
   padding: var(--size-4);
+}
+
+.lock {
+  margin-left: 4px;
 }
 
 .content h3 {

@@ -1,10 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
-
 import classes from "./post-item.module.css";
 
 function PostItem(props) {
-  const { title, image, excerpt, date, slug } = props.post;
+  const { title, image, excerpt, date, slug, isProtected } = props.post;
 
   const formattedDate = new Date(date).toLocaleDateString("en-US", {
     day: "numeric",
@@ -28,7 +27,10 @@ function PostItem(props) {
           />
         </div>
         <div className={classes.content}>
-          <h3>{title}</h3>
+          <h3 className={classes.title}>
+            {title}
+            {isProtected && <span className={classes.lock}>🔒</span>}
+          </h3>
           <time>{formattedDate}</time>
           <p>{excerpt}</p>
         </div>
