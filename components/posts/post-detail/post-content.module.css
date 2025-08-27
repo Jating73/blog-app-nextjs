@@ -19,6 +19,24 @@
   max-width: 600px;
 }
 
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+.content th,
+.content td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.content th {
+  background-color: #222;
+  color: #fff;
+}
+
 @media (min-width: 768px) {
   .content {
     padding: var(--size-8);

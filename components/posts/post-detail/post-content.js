@@ -1,4 +1,5 @@
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import classes from "./post-content.module.css";
 import PostHeader from "./post-header";
 import Image from "next/image";
@@ -63,7 +64,7 @@ function PostContent(props) {
   return (
     <article className={classes.content}>
       <PostHeader title={post.title} image={imagePath} />
-      <ReactMarkdown components={customComponents}>
+      <ReactMarkdown components={customComponents} remarkPlugins={[remarkGfm]}>
         {post.content}
       </ReactMarkdown>
     </article>

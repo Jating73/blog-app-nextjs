@@ -9,6 +9,82 @@ date: "2025-08-11"
 
 ## Day 1 (11-08-2025) -
 
+**Notes -**
+
+- Don't Translate ever word to word.
+- Watch movie on youtube - Nicos Weg A1, A2, B1.
+
+### Introduction -
+
+Sie is used for strangers, office people  
+du is used with casual
+
+Heißen - to be called(verb)
+
+Wie heißen sie? (Formal) - What is your name?  
+Wie heißt du? (Informal) - What is your name?  
+Ich heiße Jatin - I am jatin
+
+Wohnen - to live(verb)
+
+Wo wohnen Sie? (Formal) - Where do you live?  
+Wo wohnst du? (Informal) - Where do you live?  
+Ich wohne in Ambala - I live in Ambala
+
+Kommen - to come(verb)
+
+Woher kommen Sie? (Formal) - Where do you come from?  
+Woher kommst du? (Informal) - Where do you come from?  
+Ich komme aus Indien - I come from Delhi
+
+Die Sprache, n - the language, s (noun)  
+Sprechen - to speak(verb)
+
+Welche Sprachen sprechen Sie? (Formal) - Which languages do you speak?  
+Welche Sprachen sprichst du? (Informal) - Which languages do you speak?  
+Ich spreche Englisch, Hindi und Deutsch - I speak english, hindi and german
+
+Subject verb agreement/verb conjugation
+
+When we conjugate or alter the verb as per subject(doer) in the sentence, we call it subject verb agreement.
+We can also refer to it as verb conjugation
+
+Components of sentence -
+
+- Subject is the doer in the sentence. It performs action in the verb. Subject is also known as nominative.
+- Verb is the action performed by the subject.
+- Object is the noun that receives the verb. In other words object is acted upon. Object is also known as accusative.
+
+Pronouns -
+
+| German | English | Notes                                  |
+| ------ | ------- | -------------------------------------- |
+| Ich    | I       | first person, singular                 |
+| du     | you     | second person, singular, informal      |
+| er     | he      | third person, singular                 |
+| sie    | she     | third person, singular                 |
+| es     | it      | third person, singular                 |
+| Sie    | you     | second person, singular/plural, formal |
+| Wir    | we      | first person, plural                   |
+| Ihr    | you     | second person, plural, informal        |
+| sie    | they    | third person, plural                   |
+
+e, st,en
+
+|           | heißen | kommen | wohnen | sprechen |
+| --------- | ------ | ------ | ------ | -------- |
+| ich       | heiße  | komme  | wohne  | spreche  |
+| du        | heißt  | kommst | wohnst | sprichst |
+| er/sie/es | heißt  | kommt  | wohnt  | spricht  |
+| Sie       | heißen | kommen | wohnen | sprechen |
+| Wir       | heißen | kommen | wohnen | sprechen |
+| Ihr       | heißt  | kommt  | wohnt  | sprecht  |
+| sie(they) | heißen | kommen | wohnen | sprechen |
+
+- Ich heiße Jatin Gambhir, Ich wohne in Ambala und Ich komme aus Indien. Ich spreche Hindi, Englisch und Deutsch.
+- Sie heißt Emma, sie wohnt in Stuttgart und sie kommt aus Deutschland. Sie spricht Spanisch, Englisch und Deutsch.
+- Sie heißen Emma und Thomas, sie wohnen in London und sie kommen aus England. Sie sprechen Deutsch und Englisch.
+
 ## Day 2 (12-08-2025) -
 
 ## Day 3 (13-08-2025) -
