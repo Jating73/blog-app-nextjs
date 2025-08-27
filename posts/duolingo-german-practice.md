@@ -344,3 +344,18 @@ I need a napkin - Ich brauche eine Serviette
 I need a knife - Ich brauche ein Masser  
 Here is the napkin - Hier ist eine Serviette  
 Here is a knife - Hier ist ein Messer
+
+## (Day 13)
+
+### Words -
+
+English -> German -> Sounds  
+Glass - Glas - Glas  
+Cup - Tasse - Tassa
+
+### Sentence -
+
+I need a glass - Ich brauche ein Glas  
+I need a cup - Ich brauche eine Tasse  
+Here is a glass - Hier ist ein Glas  
+Here is a cup - Hier ist eine Tasse
