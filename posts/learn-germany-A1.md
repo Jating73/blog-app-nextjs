@@ -13,6 +13,7 @@ date: "2025-08-11"
 
 - Don't Translate ever word to word.
 - Watch movie on youtube - Nicos Weg A1, A2, B1.
+- dict.cc app for windows, apple, browser or phone.
 
 ### Introduction -
 
@@ -86,6 +87,50 @@ e, st,en
 - Sie heißen Emma und Thomas, sie wohnen in London und sie kommen aus England. Sie sprechen Deutsch und Englisch.
 
 ## Day 2 (12-08-2025) -
+
+Hallo wie geht es dir? (Informal) - Hello How are you?  
+Wie geht es? (Informal)  
+Wie geht's? (Informal)  
+Hallo wie geht es Ihnen (Formal) - Hello How are you?  
+Mir geht es gut, danke. Und dir? - I am fine, thanks. And you?  
+Es geht mir gut, danke - I am fine, thanks.  
+Es geht, danke - I'm all right. thanks.  
+Wer bist du? (Informal) - Who are you?  
+Wer sind Sie? (Formal) - Who are you?
+
+Entschuldigung/Entschuldigen Sie - Excuse me  
+Herr Gambhir/Raghav/Thakur  
+Frau Puniya
+
+Auf wiedersehen/Tschüss/Ciao - Bye Bye  
+Bis bald - see you soon  
+Bis Morgen - see you tomorrow  
+Bis später - see you later  
+Bis gleich - see you very soon  
+Bis Abend - see you in the evening
+
+Guten Morgen - Good morning (till 9am/9.30am)  
+Guten Tag - Good day (from 9am till 4pm/4.30pm)  
+Guten Abend - Good evening (from 4pm till midnight)  
+Gute Nacht - Good night
+
+Studieren - to study (when you study inside school/college)  
+Lernen - to study (self, tution) to learn
+
+Pronoun - Pronomen
+
+|           | studieren | lernen |
+| --------- | --------- | ------ |
+| Ich       | studiere  | lerne  |
+| du        | studierst | lernst |
+| er/sie/es | studiert  | lernt  |
+| Sie       | studieren | lernen |
+| Wir       | studieren | lernen |
+| Ihr       | studiert  | lernt  |
+| sie(they) | studieren | lernen |
+
+Eva kommt aus Delhi, sie wohne in Pune. Sie studiert Biolgie und sie lernt Deutsch.  
+Markus und Peter kommen aus Deutschland, sie wohnen in Rom. Sie studieren Mathematik und sie lernen Italienisch(Italian).
 
 ## Day 3 (13-08-2025) -
 
