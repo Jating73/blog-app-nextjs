@@ -134,6 +134,85 @@ Markus und Peter kommen aus Deutschland, sie wohnen in Rom. Sie studieren Mathem
 
 ## Day 3 (13-08-2025) -
 
+Deutsch Alphabet has 30 letters in total, out of which 26 are same in English. The pronounciation is different
+for these 26 letters.
+
+| Letter | Pronounciation             |
+| ------ | -------------------------- |
+| A      | aa                         |
+| B      | bay                        |
+| C      | say                        |
+| D      | day                        |
+| E      | a (as in English)          |
+| F      | f (same)                   |
+| G      | gay                        |
+| H      | ha                         |
+| I      | e (as in English)          |
+| J      | yot                        |
+| K      | ka                         |
+| L      | l (same)                   |
+| M      | m (same)                   |
+| N      | n (same)                   |
+| O      | o (same)                   |
+| P      | pay                        |
+| Q      | ku                         |
+| R      | er                         |
+| S      | s (same)                   |
+| T      | tay                        |
+| U      | uu                         |
+| V      | fau                        |
+| W      | way                        |
+| X      | x (same)                   |
+| Y      | epsilon                    |
+| Z      | set                        |
+| ß      | ss (only in certain cases) |
+| ü      | eu                         |
+| ü      | ao                         |
+| ä      | ae                         |
+
+Ich heiße Jatin - My name is Jatin  
+Buchstabieren Sie Ihr Name bitte - Spell your name please  
+J-A-T-I-N - yot-aa-tay-e-n
+
+- All nouns should be capital while writing.
+
+Das Geld - the money  
+verdinen - to earn  
+ausgeben - to spend  
+bezahlen - to pay  
+einzahlen - to deposit  
+auszahlen - to withdraw  
+sparen - to save  
+leihen - to lend  
+investieren - to invest  
+geben - to give
+
+- Articles play a very vital role in German language as they reveal the gender of the noun.
+- German nouns are categorised into 3 main groups. Masculine, Feminine and Neutral. Any noun can be
+  masculine, feminine or neutral, be it living or non-living.
+
+Bestimmt case (proper case, equivalent to 'the' of English)
+
+|            | Masculine    | Feminine  | Neutral  | Plural     |
+| ---------- | ------------ | --------- | -------- | ---------- |
+| Nominative | Der Pullover | Die Jacke | Das Hemd | Die Schuhe |
+| Accusative | Den Pullover | Die Jacke | Das Hemd | Die Schuhe |
+
+Der Pullover - the sweater  
+Die Jacke - the jacket  
+Das Hemd - the shirt  
+Die Schuhe - the shoes
+
+Der Pullover ist teuer - The sweater is expensive  
+Der Pullover kostet 50 - The sweater costs 50
+Ich kaufe den Pullover - I buy the sweater
+
+Unbestimmt case (proper case, equivalent to 'a/an' of English)
+
+| Masculine    | Feminine   | Neutral  | Plural |
+| ------------ | ---------- | -------- | ------ |
+| ein Pullover | eine Jacke | ein Hemd | --     |
+
 ## Day 4 (14-08-2025) -
 
 ## Day 5 (15-08-2025) -
@@ -251,3 +330,6 @@ November - November
 Dezember - December
 
 ## Day 12 (23-08-2025) -
+
+
+## Day 12 (28-08-2025) -

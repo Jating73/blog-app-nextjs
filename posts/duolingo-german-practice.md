@@ -359,3 +359,32 @@ I need a glass - Ich brauche ein Glas
 I need a cup - Ich brauche eine Tasse  
 Here is a glass - Hier ist ein Glas  
 Here is a cup - Hier ist eine Tasse
+
+## (Day 14)
+
+### Words -
+
+English -> German -> Sounds  
+Student - Schülerin - Schulaerin  
+Welcome - Wilkommen - Willkommen  
+Teacher - Lehrer - Leher  
+Art Teacher - Kunstlehrer - Kunstlehrer  
+Cheese - Käse - Kaazzzzaa  
+with - mit - mit  
+hot - heiß - heiss  
+delicious/tasty/yum - lecker - lecker
+
+die Pizza - The Pizza  
+der Käse - The Cheese  
+der Salat - The salad
+
+### Sentence -
+
+Are you a student? - Bist du eine Schülerin?  
+Yes I am a student - Ja, Ich bin eine Schülerin  
+Oscar is the teacher - Oscar ist der Lehrer  
+Welcome in my class - Wilkommen in meiner Klasse  
+Tea with milk please - Tee mit Milch, Bitte  
+Bread with cheese - Brot mit Käse  
+The Tea is hot - Der Tee ist heiß  
+Is the coffee delicious? - Ist der Kaffee lecker?
