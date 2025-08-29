@@ -388,3 +388,22 @@ Tea with milk please - Tee mit Milch, Bitte
 Bread with cheese - Brot mit Käse  
 The Tea is hot - Der Tee ist heiß  
 Is the coffee delicious? - Ist der Kaffee lecker?
+
+## (Day 15)
+
+### Words -
+
+English -> German -> Sounds  
+Egg - Ei - I  
+Sandwich - Sandwich - Sandwich  
+mineral water - Mineralwasser - Mineralwasser
+
+das Ei - the egg  
+das Sandwich - the sandwich  
+das Brot - the bread  
+das Mineralwasser - the mineral water
+
+### Sentence -
+
+Das Sandwich ist super, Danke! - The sandwich is great, thank you!  
+Hier ist ein Ei - Here is an egg
