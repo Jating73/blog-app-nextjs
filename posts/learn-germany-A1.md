@@ -7,7 +7,7 @@ isProtected: true
 date: "2025-08-11"
 ---
 
-## Day 1 (11-08-2025) -
+## Day 1 (11-08-2025) (Monday) -
 
 **Notes -**
 
@@ -52,7 +52,7 @@ We can also refer to it as verb conjugation
 
 Components of sentence -
 
-- Subject is the doer in the sentence. It performs action in the verb. Subject is also known as nominative.
+- Subject is the doer(noun) in the sentence. It performs action in the verb. Subject is also known as nominative.
 - Verb is the action performed by the subject.
 - Object is the noun that receives the verb. In other words object is acted upon. Object is also known as accusative.
 
@@ -86,7 +86,7 @@ e, st,en
 - Sie heißt Emma, sie wohnt in Stuttgart und sie kommt aus Deutschland. Sie spricht Spanisch, Englisch und Deutsch.
 - Sie heißen Emma und Thomas, sie wohnen in London und sie kommen aus England. Sie sprechen Deutsch und Englisch.
 
-## Day 2 (12-08-2025) -
+## Day 2 (12-08-2025) (Tuesday) -
 
 Hallo wie geht es dir? (Informal) - Hello How are you?  
 Wie geht es? (Informal)  
@@ -132,7 +132,7 @@ Pronoun - Pronomen
 Eva kommt aus Delhi, sie wohne in Pune. Sie studiert Biolgie und sie lernt Deutsch.  
 Markus und Peter kommen aus Deutschland, sie wohnen in Rom. Sie studieren Mathematik und sie lernen Italienisch(Italian).
 
-## Day 3 (13-08-2025) -
+## Day 3 (13-08-2025) (Wednesday)-
 
 Deutsch Alphabet has 30 letters in total, out of which 26 are same in English. The pronounciation is different
 for these 26 letters.
@@ -186,6 +186,7 @@ sparen - to save
 leihen - to lend  
 investieren - to invest  
 geben - to give
+kaufen - to buy
 
 - Articles play a very vital role in German language as they reveal the gender of the noun.
 - German nouns are categorised into 3 main groups. Masculine, Feminine and Neutral. Any noun can be
@@ -204,22 +205,65 @@ Das Hemd - the shirt
 Die Schuhe - the shoes
 
 Der Pullover ist teuer - The sweater is expensive  
-Der Pullover kostet 50 - The sweater costs 50
+Der Pullover kostet 50 - The sweater costs 50 euro  
 Ich kaufe den Pullover - I buy the sweater
 
 Unbestimmt case (proper case, equivalent to 'a/an' of English)
 
-| Masculine    | Feminine   | Neutral  | Plural |
-| ------------ | ---------- | -------- | ------ |
-| ein Pullover | eine Jacke | ein Hemd | --     |
+|            | Masculine      | Feminine   | Neutral  | Plural |
+| ---------- | -------------- | ---------- | -------- | ------ |
+| Nominative | ein Pullover   | eine Jacke | ein Hemd | --     |
+| Accusative | einen Pullover | eine Jacke | ein Hemd | --     |
 
-## Day 4 (14-08-2025) -
+Das ist ein Pullover - This is a sweater  
+Ich brauche einen Pullover - I need a sweater
 
-## Day 5 (15-08-2025) -
+Das ist - this/that is - ist das (is that)  
+Das sind - these are - sind das (are these)
+
+- Masculine noun has different articles for different cases. When it's a subject/nominative in a sentence, it takes der or ein as the article. But if it is object/accusative in a sentence, it den or einen as the article.
+
+|           | brauchen | kaufen  |
+| --------- | -------- | ------- |
+| Ich       | brauche  | kaufe   |
+| du        | brauchst | kaufest |
+| er/sie/es | braucht  | kauft   |
+| Sie       | brauchen | kaufen  |
+| Wir       | brauchen | kaufen  |
+| Ihr       | braucht  | kauft   |
+| sie(they) | brauchen | kaufen  |
+
+Das Essen - the food  
+Die Getränke - the drinks
+
+Die Nachbarin, en - the neighbour(female)  
+Der Nachbar, n - the neighbour(male)
+
+Die Nederlande - Holländisch, Deutsch und Englisch  
+Die Schweiz - Deutsch, Italienisch, Französisch, Englisch und Ratoromänisch  
+Dänemark - Dänisch  
+Schweden - Schwedisch  
+Norwegian - Norwegisch  
+Belgien - Holländisch, Französisch, Englisch und Deutsch  
+Österrich - Deutsch  
+Frankerich - Französisch  
+Spanien - Spanisch  
+Italien - Italienisch  
+Polen - Polnisch  
+Portugal - Portugiesisch  
+Ungarn - Ungarnisch  
+Teschichische Republik - Teschischisch  
+Russland - Russich
+
+**Homework** - Learn about new country or city names in europe only and focus on kitchen related
+
+## Day 4 (14-08-2025) (Thursday)-
+
+## Day 5 (15-08-2025) (Friday)-
 
 Indepence Day Holiday
 
-## Day 6 (16-08-2025) -
+## Day 6 (16-08-2025) (Saturday)-
 
 ### Numbers-
 
@@ -260,15 +304,19 @@ Indepence Day Holiday
 4378 - fiertausenddreihundertachtundsiebzig  
 1990 (year) - neunzehnhundertneunzig (zahr)
 
-## Day 7 (18-08-2025) -
+## Day 7 (17-08-2025) (Sunday)-
 
-## Day 8 (19-08-2025) -
+Holiday
 
-## Day 9 (20-08-2025) -
+## Day 8 (18-08-2025) (Monday)-
 
-## Day 10 (21-08-2025) -
+## Day 9 (19-08-2025) (Tuesday)-
 
-## Day 11 (22-08-2025) -
+## Day 10 (20-08-2025) (Wednesday)-
+
+## Day 11 (21-08-2025) (Thursday)-
+
+## Day 12 (22-08-2025) (Friday)-
 
 German - English  
 Der Tag,e - The day,s
@@ -329,7 +377,32 @@ Oktober - October
 November - November  
 Dezember - December
 
-## Day 12 (23-08-2025) -
+## Day 13 (23-08-2025) (Saturday)-
 
+## Day 14 (24-08-2025) (Sunday)-
 
-## Day 12 (28-08-2025) -
+Holiday
+
+## Day 15 (25-08-2025) (Monday)-
+
+## Day 16 (26-08-2025) (Tuesday)-
+
+## Day 17 (27-08-2025) (Wednesday)-
+
+## Day 18 (28-08-2025) (Thursday)-
+
+## Day 19 (29-08-2025) (Friday)-
+
+## Day 20 (30-08-2025) (Saturday)-
+
+## Day 21 (31-08-2025) (Sunday)-
+
+## Day 22 (01-09-2025) (Monday)-
+
+Wie war dein Wochenende? - How was your weekend?  
+Mein wochenende war gut - My weekend was good  
+Mein wochenende war ok - My weekend was ok
+
+Nach - after/to/past (used in context of time, going to cities/countries and home)
+
+## Day 23 (02-09-2025) (Tuesday)-
