@@ -407,3 +407,40 @@ das Mineralwasser - the mineral water
 
 Das Sandwich ist super, Danke! - The sandwich is great, thank you!  
 Hier ist ein Ei - Here is an egg
+
+## (Day 16)
+
+### Words -
+
+English -> German -> Sounds  
+salt - salz - zalz  
+waiter - kellner - kener  
+cold - kalt - kalt  
+Excuse me - Entschuldigung - Enshuldigung  
+Menu - Speisekarte - Spizakarte  
+check - rechnung - rachnung  
+sausage - wurst - worst  
+
+
+aße - asse  
+meer - meer  
+
+die Speisekarte  
+das Restaurant  
+die Wurst  
+das Schnitzel  
+
+
+### Sentence -
+
+Pizza with cheese, please! - Pizza mit Käse, Bitte!  
+The waiter is nice - Der Kellner ist nett!  
+The waiter is young - Der Kellner ist jung  
+Excuse me, where is the restaurant? - Entschuldigung, wo ist das Restaurant?  
+The restaurat is beautiful - Das Restaurant ist schön  
+Excuse me, where is the menu? - Entschuldigung, wo ist die Speisekarte?  
+Excuse me, the tea is cold - Entschuldigung, der Tee is kalt  
+Here is the salt - Hier ist das salz  
+Here is the menu - Hier is die Speisekarte  
+Here is the sausage - Hier is die Wurst  
+
