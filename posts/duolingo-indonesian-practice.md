@@ -1,7 +1,7 @@
 ---
 title: 🇩🇪 Indonesian Language Practice on Duolingo
 excerpt: Learning Indonesian as complete beginner on Duolingo
-image: duolingo-Indonesian.jpg
+image: duolingo-indonesian.jpg
 isFeatured: false
 isProtected: true
 date: "2025-09-01"
@@ -40,15 +40,15 @@ kucing - cat
 
 ### Sentence -
 
-Saya mau apel - I want apple
-Saya mau jeruk - I want orange
-Saya suka apel - I like apple
-Saya makan apel - I eat apple
-Saya suku susu - I like milk
-Saya punya air - I have water
-Saya punya jeruk - I have orange
-Saya minum air - I drink water
-Kamu makan itu - You eat that
-Saya punya kamu - I have you
-Dia minum air - He drinks water
-Saya mau apel dan jeruk - I want apple and orange
+Saya mau apel - I want apple  
+Saya mau jeruk - I want orange  
+Saya suka apel - I like apple  
+Saya makan apel - I eat apple  
+Saya suku susu - I like milk  
+Saya punya air - I have water  
+Saya punya jeruk - I have orange  
+Saya minum air - I drink water  
+Kamu makan itu - You eat that  
+Saya punya kamu - I have you  
+Dia minum air - He drinks water  
+Saya mau apel dan jeruk - I want apple and orange  

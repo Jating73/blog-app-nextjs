@@ -259,6 +259,40 @@ Russland - Russich
 
 ## Day 4 (14-08-2025) (Thursday)-
 
+Leisure Activities/Hobbies -
+
+Fernsehen - to watch tv
+Malen - to do painting
+Zeichnen - to do sketching
+Schwimmen - to do swimming
+Kochen - to do cooking
+Backen - to do baking
+Einkaufen - to do shopping
+Reiten - to do horse riding
+Lesen - reading
+Joggen - to do jogging
+Fotografieren - to do photography
+Tanzen - to do dancing
+Singen - to do singing
+Rad Fahren - to do cycling
+Spaziern gehen - to go for hiking
+Inlineskaten - to do skating
+Klettern - to do mountain climbing
+Reisen - to travel
+Chatten - to do chatting
+Sozialiezieren - to socialize
+Urlaub machen - to go on holiday
+Sport machen - to do sport
+
+Was machen Sie gern? - What you love to do? (Formal)
+Was machst du gern? - What you love do do? (Informal)
+
+Was machen Sie in Ihre Freizeit? - What you love to do in your free time? (Formal)
+Was machst du in deine Freizeit? - What you love to do in your free time? (Informal)
+
+Ich reise gern und ich mache Sport sehr gehen/oft.
+I love to travel and I love to do sports (often).
+
 ## Day 5 (15-08-2025) (Friday)-
 
 Indepence Day Holiday
