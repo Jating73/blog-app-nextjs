@@ -261,37 +261,111 @@ Russland - Russich
 
 Leisure Activities/Hobbies -
 
-Fernsehen - to watch tv
-Malen - to do painting
-Zeichnen - to do sketching
-Schwimmen - to do swimming
-Kochen - to do cooking
-Backen - to do baking
-Einkaufen - to do shopping
-Reiten - to do horse riding
-Lesen - reading
-Joggen - to do jogging
-Fotografieren - to do photography
-Tanzen - to do dancing
-Singen - to do singing
-Rad Fahren - to do cycling
-Spaziern gehen - to go for hiking
-Inlineskaten - to do skating
-Klettern - to do mountain climbing
-Reisen - to travel
-Chatten - to do chatting
-Sozialiezieren - to socialize
-Urlaub machen - to go on holiday
-Sport machen - to do sport
+Fernsehen - to watch tv  
+Malen - to do painting  
+Zeichnen - to do sketching  
+Schwimmen - to do swimming  
+Kochen - to do cooking  
+Backen - to do baking  
+Einkaufen - to do shopping  
+Reiten - to do horse riding  
+Lesen - reading  
+Joggen - to do jogging  
+Fotografieren - to do photography  
+Tanzen - to do dancing  
+Singen - to do singing  
+Rad Fahren - to do cycling  
+Spaziern gehen - to go for hiking  
+Inlineskaten - to do skating  
+Klettern - to do mountain climbing  
+Reisen - to travel  
+Chatten - to do chatting  
+Sozialiezieren - to socialize  
+Urlaub machen - to go on holiday  
+Sport machen/treiben - to do sport  
+Spielen - to play  
+Ins kino gehen - to go in movie hall/cinema  
+Ins Theater gehen - to go in theatre  
+Musik hören - to listen to music
 
-Was machen Sie gern? - What you love to do? (Formal)
+Was machen Sie gern? - What you love to do? (Formal)  
 Was machst du gern? - What you love do do? (Informal)
 
-Was machen Sie in Ihre Freizeit? - What you love to do in your free time? (Formal)
+Sag mal - Tell me (Imperative Sentence)
+
+Was machen Sie in Ihre Freizeit? - What you love to do in your free time? (Formal)  
 Was machst du in deine Freizeit? - What you love to do in your free time? (Informal)
 
-Ich reise gern und ich mache Sport sehr gehen/oft.
+Ich reise gern und ich mache Sport sehr gehen/oft.  
 I love to travel and I love to do sports (often).
+
+Reisen Sie gern?  
+Ja, ich reise sehr gern/Ja, sehr gern  
+Nein, nicht so gern. Ich spiele Basketball gern.
+
+Ich mache/treibe Sport jeden Tag - I do sports everyday  
+Welche Sport machen/treiben Sie? - Which sport do you play?  
+Ich spiele Tennis/Rugby jeden Tag - I play Tennis/Rugby every day.
+
+Chattest du gern?  
+Ja, sehr gern. Aber ich reise auch gern
+
+|           | Reisen | Fotografieren | Reiten  | Zeichnen | Spielen |
+| --------- | ------ | ------------- | ------- | -------- | ------- |
+| Ich       | reise  | fotografiere  | Reite   | Zeichne  | Spiele  |
+| du        | reist  | fotografierst | Reitest | Zeichnst | Spielst |
+| er/sie/es | reist  | fotografiert  | Reitet  | Zeichnet | Spielt  |
+| Sie       | reisen | fotografieren | Reiten  | Zeichnen | Spielen |
+| Wir       | reisen | fotografieren | Reiten  | Zeichnen | Spielen |
+| Ihr       | reist  | fotografiert  | Reitet  | Zeichnet | Spielt  |
+| sie(they) | reisen | fotografieren | Reiten  | Zeichnen | Spielen |
+
+Die Frage - the question(noun)  
+Fragen - to ask
+
+|            | Masculine     | Feminine       | Neutral            | Plural     |
+| ---------- | ------------- | -------------- | ------------------ | ---------- |
+| Nominative | Der Flughafen | die Bibliothek | das Einkaufzentrum | die Schuhe |
+| Accusative | Den Flughafen | die Bibliothek | das Einkaufzentrum | die Schuhe |
+
+Der Flughafen - the airport  
+die Bibliothek - the library  
+das Einkaufzentrum - the shopping mall  
+die Schuhe - the shoes  
+Den Flughafen - the airport(object)
+
+|            | Masculine       | Feminine        | Neutral            | Plural |
+| ---------- | --------------- | --------------- | ------------------ | ------ |
+| Nominative | Ein Flughafen   | Eine Bibliothek | Ein Einkaufzentrum | -      |
+| Accusative | Einen Flughafen | Eine Bibliothek | Ein Einkaufzentrum | -      |
+
+Ein Flughafen - the airport  
+Eine Bibliothek - the library  
+Ein Einkaufzentrum - the shopping mall
+
+Das ist - This/That is  
+Das sind - These/Those are
+
+Ist das? - Is that?  
+Sind das? - Are these?
+
+Das ist der Pullover - This is the sweater  
+Der Pullover kostet 50Euro - The sweater costs 50 euros
+
+Ich kaufe **den** Pullover - I buy the sweater  
+Ich kaufe **einen** Pullover - I buy a sweater  
+
+
+For Imperative - (Direct Commands for 2nd person)  
+Take the medicine - you should take the medicine  
+Drink some tea - you should drink some tea  
+Take some rest/sleep  
+Go to doctor
+
+(German A1 Book with Audio) - Page no .18  
+(Audio) - Kapitel 2 || Freunde, Kollegen und ich
+
+Increase your vocabulary given after every chapter in A1 German Workbook eg page no - 14  
 
 ## Day 5 (15-08-2025) (Friday)-
 
