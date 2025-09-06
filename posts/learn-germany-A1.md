@@ -353,8 +353,7 @@ Das ist der Pullover - This is the sweater
 Der Pullover kostet 50Euro - The sweater costs 50 euros
 
 Ich kaufe **den** Pullover - I buy the sweater  
-Ich kaufe **einen** Pullover - I buy a sweater  
-
+Ich kaufe **einen** Pullover - I buy a sweater
 
 For Imperative - (Direct Commands for 2nd person)  
 Take the medicine - you should take the medicine  
@@ -365,13 +364,61 @@ Go to doctor
 (German A1 Book with Audio) - Page no .18  
 (Audio) - Kapitel 2 || Freunde, Kollegen und ich
 
-Increase your vocabulary given after every chapter in A1 German Workbook eg page no - 14  
+Increase your vocabulary given after every chapter in A1 German Workbook eg page no - 14
 
 ## Day 5 (15-08-2025) (Friday)-
 
 Indepence Day Holiday
 
 ## Day 6 (16-08-2025) (Saturday)-
+
+Markus kommt aus Deutschland, er sprict Deutsch, Italienisch und Englisch
+
+Das Land, die Länder - the country, the countries  
+Die Sprache, die Sprachen - the language, the languages
+
+Die Niederlande - Holländisch, Deutsch und Englisch  
+Die Schweiz - Deutsch, Italienisch, Französisch, Englisch und Ratoromänisch  
+Frankerich - Französisch  
+Italien - Italienisch  
+Belgien - Holländisch, Französisch, Englisch und Deutsch  
+Spanien - Spanisch  
+Portugal - Portugiesisch  
+Schweden - Schwedisch  
+Dänemark - Dänisch  
+Norwegian - Norwegisch  
+Polen - Polnisch  
+Ungarn - Ungarnisch  
+Tschichische Republik - Slavisch, Deutsch Czeh Republic(Yugoslavia)  
+Russland - Russich
+Die Ukranien - Russich  
+Belarussian - Russich  
+Georgian - Slavisch  
+Latvian - Slavisch  
+England - Englisch  
+Die USA (pl.) - Englisch  
+Die Türkei - Türkish
+
+Man(er/sie/es)
+
+In Italien spricht man Italienisch - In Italy one speaks Italian  
+Welche Sprache spricht man in Ungarn? - Which language one speaks in Hungary?  
+Man spricht Ungranisch in Ungran
+
+Indien - India
+
+Welche Sprache spricht man in Indien?  
+Man spricht viele Sprachen in Indien, z.B Hindi, Englisch, Punjabi, Marwari, Gujrati, usw
+
+z.B - zum Beispiel (for example)  
+usw - und so weiter (and so on)  
+ca - circa (approximately)  
+bzw - beziehungweise (respectively)
+
+schon - already
+schön - beautiful/lovely
+
+das ist sehr schön - That is very beautiful
 
 ### Numbers-
 
@@ -380,17 +427,17 @@ Indepence Day Holiday
 2 - zwei  
 3 - drei  
 4 - vier  
-5 - funf  
+5 - fünf  
 6 - sechs  
 7 - sieben  
 8 - acht  
 9 - neun  
 10 - zehn  
 11 - elf  
-12 - zwolf  
+12 - zwölf  
 13 - dreizehn  
 14 - vierzehn  
-15 - funfzehn  
+15 - fünfzehn  
 16 - sehszehn  
 17 - siebzehn  
 18 - achtzehn  
@@ -400,23 +447,73 @@ Indepence Day Holiday
 22 - zweiundzwanzig  
 23 - dreiundzwanzig  
 24 - fierundzwanzig  
-25 - funfundzwanzig  
+25 - fünfundzwanzig  
 26 - sechsundzwanzig
+
+30 - dreißig  
+40 - vierzig  
+50 - fünfzig
+60 - sechszig  
+70 - siebzig  
+80 - achtzig  
+90 - neunzig
 
 100 - einhundert/hundert  
 200 - zweihundert  
 1000 - eintausend  
 2000 - zweitausend  
-121 - einhunderteinundzweizwanzig  
-324 - dreihundertvierundzweizwanzig  
-4378 - fiertausenddreihundertachtundsiebzig  
-1990 (year) - neunzehnhundertneunzig (zahr)
+121 - einhunderteinundzwanzig/hunderteinundzwanzig  
+324 - dreihundertvierundzwanzig  
+4378 - fiertausenddreihundertachtundsiebzig
+
+1990 (year) - neunzehnhundertneunzig (Jahr)
+
+Die Stadt - the city  
+Der Flughafen - the airport  
+Der Banhof - the train station  
+Das Markt - the market  
+Die Bibliothek - the library  
+Die Schule - the school  
+Die Hoschule - the college  
+Die Universität - the university  
+Das Büro - the office  
+Das Einkaufzentrum - the shopping mall  
+Der Krankenhaus - the hospital  
+Der Supermarkt - the supermarket  
+Die Bäckerei - the bakery  
+Die Metzgerei - the meat shop  
+Die Apotheke - the pharmacy  
+Die Pizzeria - the pizza parlour  
+Der Café - the café  
+Das Resturant - the restaurant  
+Das Hotel - the hotel  
+Die Bushaltstelle - the bus stand  
+Der Park - the park  
+Der Garten - the garden  
+Die Post - the post  
+Das Tierheim - the zoo  
+Die Buchhandlung - the book store  
+Die Straße - the street  
+Der Autobahn - the highway/expressway  
+Die Polizeistation - the police station  
+Die Feurstation - the fire station  
+Der Fluss - the river  
+Der See - the lake  
+Die See - the sea  
+Das Meer - the sea  
+Der Strand - the beach  
+Das Ozean - the ocean  
+Der Kanal - the canal
+
+A1 German Workbook - Page 38
 
 ## Day 7 (17-08-2025) (Sunday)-
 
 Holiday
 
 ## Day 8 (18-08-2025) (Monday)-
+
+
 
 ## Day 9 (19-08-2025) (Tuesday)-
 
@@ -514,3 +611,11 @@ Mein wochenende war ok - My weekend was ok
 Nach - after/to/past (used in context of time, going to cities/countries and home)
 
 ## Day 23 (02-09-2025) (Tuesday)-
+
+## Day 24 (03-09-2025) (Wednesday)-
+
+## Day 25 (04-09-2025) (Thursday)-
+
+## Day 26 (05-09-2025) (Friday)-
+
+## Day 27 (06-09-2025) (Saturday)-

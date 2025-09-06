@@ -16,7 +16,7 @@ date: "2025-09-01"
 saya - I  
 kamu - You  
 Dia - he/she/her  
-itu - that/it/it's  
+itu - that/it/it's
 
 apel - apple  
 jeruk - orange  
@@ -28,15 +28,15 @@ air - water
 punya - have/own/possess  
 minum - drink/to drink/ have a drink  
 kuat - strong/powerful  
-dan - and  
+dan - and
 
 Colors-  
 hitam - black  
 merah - red  
-putih - white  
+putih - white
 
 Animals-  
-kucing - cat  
+kucing - cat
 
 ### Sentence -
 
@@ -51,4 +51,11 @@ Saya minum air - I drink water
 Kamu makan itu - You eat that  
 Saya punya kamu - I have you  
 Dia minum air - He drinks water  
-Saya mau apel dan jeruk - I want apple and orange  
+Saya mau apel dan jeruk - I want apple and orange
+
+## (Day 2)
+
+### Words -
+
+### Sentence -
+
