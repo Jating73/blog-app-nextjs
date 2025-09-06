@@ -3,7 +3,7 @@ title: 🛠 Fixing "code ." Not Working in Mac Terminal for VS Code
 excerpt: Quick and simple guide to fix the issue when "code ." command doesn't work in the terminal for Visual Studio Code on macOS.
 image: vscode-code-command.jpg
 isFeatured: true
-date: "2025-09-06"
+date: "2025-09-05"
 ---
 
 ## 🚨 The Problem
