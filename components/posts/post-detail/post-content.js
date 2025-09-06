@@ -1,5 +1,6 @@
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 import classes from "./post-content.module.css";
 import PostHeader from "./post-header";
 import Image from "next/image";
@@ -17,55 +18,64 @@ function PostContent(props) {
   const imagePath = `/images/posts/${post.slug}/${post.image}`;
 
   const customComponents = {
-    // img(image) {
-    //   return (
-    //     <Image
-    //       src={`/images/posts/${post.slug}/${image.src}`}
-    //       height={300}
-    //       width={600}
-    //       alt={image.alt}
-    //     />
-    //   );
-    // },
-
-    p(paragraph) {
-      const { node } = paragraph;
-      if (node.children[0].tagName === "img") {
-        const image = node.children[0].properties;
-        return (
-          <div className={classes.img}>
-            <Image
-              src={`/images/posts/${post.slug}/${image.src}`}
-              height={300}
-              width={600}
-              alt={image.alt}
-              style={{ objectFit: "contain" }}
-            />
-          </div>
-        );
-      }
-
-      return <p>{paragraph.children}</p>;
+    img(image) {
+      return (
+        <div className={classes.img}>
+          <Image
+            src={`/images/posts/${post.slug}/${image.src}`}
+            height={300}
+            width={600}
+            alt={image.alt || "Post image"}
+            style={{ objectFit: "contain" }}
+          />
+        </div>
+      );
     },
 
-    code(code) {
-      let language = code.className.split("-")[1];
-      language = detectLanguage(language);
+    code({ node, inline, className, children, ...props }) {
+      const match = /language-(\w+)/.exec(className || "");
+      const language = detectLanguage(match ? match[1] : "");
+      const codeValue = String(children).replace(/\n$/, "");
 
-      const value = code.children[0];
+      if (inline) {
+        return <code {...props}>{children}</code>;
+      }
+
       return (
-        <SyntaxHighlighter style={atomDark} language={language}>
-          {value}
+        <SyntaxHighlighter
+          style={atomDark}
+          language={language}
+          PreTag="div"
+          {...props}
+        >
+          {codeValue}
         </SyntaxHighlighter>
+      );
+    },
+
+    mark({ children }) {
+      return (
+        <mark style={{ backgroundColor: "yellow", padding: "0 2px" }}>
+          {children}
+        </mark>
       );
     },
   };
 
+  const contentWithHighlights = post.content.replace(
+    /==(.+?)==/g,
+    "<mark>$1</mark>"
+  );
+
   return (
     <article className={classes.content}>
       <PostHeader title={post.title} image={imagePath} />
-      <ReactMarkdown components={customComponents} remarkPlugins={[remarkGfm]}>
-        {post.content}
+      <ReactMarkdown
+        components={customComponents}
+        remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw]}
+      >
+        {contentWithHighlights}
       </ReactMarkdown>
     </article>
   );
