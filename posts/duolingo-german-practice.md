@@ -419,17 +419,15 @@ cold - kalt - kalt
 Excuse me - Entschuldigung - Enshuldigung  
 Menu - Speisekarte - Spizakarte  
 check - rechnung - rachnung  
-sausage - wurst - worst  
-
+sausage - wurst - worst
 
 aße - asse  
-meer - meer  
+meer - meer
 
 die Speisekarte  
 das Restaurant  
 die Wurst  
-das Schnitzel  
-
+das Schnitzel
 
 ### Sentence -
 
@@ -442,5 +440,22 @@ Excuse me, where is the menu? - Entschuldigung, wo ist die Speisekarte?
 Excuse me, the tea is cold - Entschuldigung, der Tee is kalt  
 Here is the salt - Hier ist das salz  
 Here is the menu - Hier is die Speisekarte  
-Here is the sausage - Hier is die Wurst  
+Here is the sausage - Hier is die Wurst
 
+## (Day 16)
+
+### Words -
+
+Die Rechnung - The check  
+Der Kellner - The waiter  
+Das Essen - The food  
+Der Tee - The tea  
+Das Wasser - The water  
+Das Ei - The egg
+
+### Sentence -
+
+Delicious! The food here is very good - Lecker!, Das Essen ist sehr gut
+Oh, the food is here - Oh, das essen ist hier  
+The pizza is too big - Die Pizza ist zu groß  
+The food is too cold - Das Essen ist zu kalt
